@@ -4,4 +4,26 @@ body {
 .nav-link {
   color: white !important;
   padding-right: 30px !important;
+  text-align: right;
+}
+.top-player {
+  background-color: #FFFFFF;
+  padding: 20px 20px;
+  border-radius: 5px;
+}
+.top-player img {
+  width: 56px;
+}
+.top-player h3 {
+  color:#562EFF ;
+}
+.top-player p {
+  padding: 15px 0 0 20px;
+}
+.line .box {
+  border: 1px solid #d6cdcd;
+  margin: auto;
+}
+.top-blog img {
+  width: 40%;
 }
