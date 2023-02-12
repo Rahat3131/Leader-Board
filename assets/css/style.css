@@ -14,7 +14,7 @@ body {
 .top-player img {
   width: 56px;
 }
-.top-player h3 {
+.top-player h3 , .lates-course h3 {
   color:#562EFF ;
 }
 .top-player p {
@@ -26,4 +26,15 @@ body {
 }
 .top-blog img {
   width: 40%;
+}
+.lates-course {
+  background: #FFFFFF;
+  padding: 20px 20px;
+}
+.lates-course .hour {
+  background-color: #FFE4E8;
+  margin-left: 60px;
+  padding: 5px 15px;
+  border-radius: 15px;
+ color: #FF4A60;
 }
